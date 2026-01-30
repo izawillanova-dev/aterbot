@@ -13,3 +13,5 @@
 		"retryDelay": 15000
 	}
 }
+git config --global user.name "Izayah"
+git config --global user.email "Izawillanova@gmail.com"
